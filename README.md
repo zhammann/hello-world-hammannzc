@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hammannzc
 - 👀 I’m interested in sports(Go Bengals), video games & lazy tv days
 - 🌱 I’m currently learning Informatics Fundamentals & IT Support Essentials
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me - zhammann@ivytech.edu
 
 <!---
